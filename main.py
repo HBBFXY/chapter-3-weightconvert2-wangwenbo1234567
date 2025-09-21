@@ -1,5 +1,4 @@
-# 在这个def main():
-    # 获取当前体重
+
     current_weight = float(input("请输入您当前的体重（kg）: "))
     
     # 月球体重转换率
